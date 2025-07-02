@@ -16,8 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=f72c6b&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits">
-</div>
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fluizakarlec&s=40&c=f72c6b&bg=00000000&no=5&ff=digii&tb=&ta=" alt="visits"></div>
 
 ###
 
