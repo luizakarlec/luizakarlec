@@ -1,26 +1,24 @@
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src= "https://capsule-render.vercel.app/api?type=waving&height=120&color=F72C6BFF&fontColor=fffff&section=header&reversal=false" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F72C6BFF&fontColor=ffffff&section=header&reversal=false" />
   </a>
-</p>
+</div>
 
-
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C6B&width=435&lines=Hello+my+name+is+Luiza+Karlec" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C6B&lines=Hello,+my+name+is+Luiza+Karlec" alt="Typing SVG" />
   </a>
-</p>
-
-
+</div>
 
 ###
 
-<div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fluizakarlec&s=40&c=f72c6b&bg=00000000&no=5&ff=digii&tb=&ta=" alt="visits"></div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fluizakarlec&s=40&c=f72c6b&bg=00000000&no=5&ff=digii&tb=Profile+Visits%3A+&ta=" alt="visits">
+</div>
 
 ###
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=luizakarlec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizakarlec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -68,8 +66,7 @@
 </div>
 
 ###
-<div align="center">
-<img src="https://raw.githubusercontent.com/luizakarlec/luizakarlec/output/snake.svg" alt="Snake animation" />
-</div>
 
-###
+<div align="center" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/luizakarlec/luizakarlec/output/snake.svg" alt="Snake animation" />
+</div>
