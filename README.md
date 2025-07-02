@@ -1,9 +1,15 @@
-<h3 align="left">Hello my name is Luiza Karlec</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C6B&width=435&lines=Hello+my+name+is+Luiza+Karlec" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/luizakarlec/count.svg?"  />
+  <img src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=f72c6b&bg=00000000&no=2&ff=digii&tb=&ta=" alt="visits">
 </div>
 
 ###
