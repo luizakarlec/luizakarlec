@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px; margin-left: 20px;">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fluizakarlec&s=40&c=f72c6b&bg=00000000&no=5&ff=digii&tb=Profile+Visits%3A+&ta=" alt="visits">
 </div>
 
