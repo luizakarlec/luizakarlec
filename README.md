@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">languages</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">others</h2>
+<h2 align="left">Others</h2>
 
 ###
 
