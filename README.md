@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72C6B&lines=Hello,+my+name+is+Luiza+Karlec" alt="Typing SVG" />
-  </a>
-</div>
+# Hello, my name is Luiza Karlec
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=luizakarlec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
