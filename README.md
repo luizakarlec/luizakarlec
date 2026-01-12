@@ -1,5 +1,5 @@
-# Hello, my name is Luiza Karlec!
-
+# 👋 Hello, my name is Luiza Karlec!
+<!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center" 
@@ -9,12 +9,18 @@
   <img height="200" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizakarlec&layout=compact&theme=dracula" />
 </a>
-
 </p>
+-->
+<div  align="center" style="margin-bottom:10px">
 
+<img width=38% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=luizakarlec&show_icons=true&theme=radical&layout=compact&hide=jupyter%20notebook,html,css,tex" />
+ </div>
+
+
+<!--
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="left"> 👨‍💻 Languages</h2>
 
 ###
 
@@ -37,7 +43,7 @@
 
 ###
 
-<h2 align="left">Others</h2>
+<h2 align="left"> 🛠️ Others</h2>
 
 ###
 
@@ -60,3 +66,4 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/luizakarlec/luizakarlec/output/snake.svg" alt="Snake animation" />
 </div>
+-->
