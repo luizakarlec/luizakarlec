@@ -9,7 +9,7 @@ I'm a **Computer Science Student (5th semester)** at Universidade Franciscana - 
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
     <img height="140" align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizakarlec&layout=compact&theme=radical"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizakarlec&layout=compact&theme=radical&hide=jupyter%20notebook"/>
     </a>
 </p>
 
