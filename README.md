@@ -37,6 +37,7 @@ I'm a **Computer Science Student (5th semester)** at Universidade Franciscana - 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Contacts:
+Linkedin: <a href="https://www.linkedin.com/in/luiza-lewandowski-karlec/" target="_blank">/luiza-lewandowski-karlec</a>  
 E-mail: luizalkarlec@gmail.com  
 Academic e-mail: luiza.karlec@ufn.edu.br
 
