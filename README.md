@@ -2,7 +2,6 @@
 
 I'm a **Computer Science Student (6th semester)** at Universidade Franciscana - UFN. Currently foucused on creating a solid foundation in CS and exploring new technologies. 
 
-<!--
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="140"  align="center" 
@@ -13,7 +12,6 @@ I'm a **Computer Science Student (6th semester)** at Universidade Franciscana - 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizakarlec&layout=compact&theme=radical&hide=jupyter%20notebook"/>
     </a>
 </p>
--->
 
 <!--
 <div  align="center" style="margin-bottom:10px">
